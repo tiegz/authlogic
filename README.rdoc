@@ -1,3 +1,5 @@
+(testing) 
+
 = Authlogic
 
 ** Authlogic supports both rails 3 and 4. For rails 2, see the rail2 branch
